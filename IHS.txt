@@ -32,7 +32,7 @@ h1 { color:white; font-size: 50px; font-family: Kelly Slab; text-align: center; 
 table, th, td {
 		border-collapse:collapse;
 		padding: 5px;
-		color: white;
+		color: aqua;
 		}
 .table_home, .th_home, .td_home { 
 		color: white;
