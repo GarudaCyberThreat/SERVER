@@ -1,0 +1,1165 @@
+
+<!DOCTYPE html>
+<HTML class='ltr no-js rwd index' dir='ltr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/2944754296-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='Website Resmi MI DARUSSALAM JATI Jl. Raya Jati, Udanawu, Blitar Jawa Timur' name='description'/>
+<!-- Graph Fb dan WA -->
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIV0PnZppWgtfc_vdfQ6cLeATlHH0u1dRBtjOFeicmSjjIX0Ct8PGUT33LooEtfuuBTKn1GcoE260VhJ7kNFNTybZGHoM1LmBDyDnlebRL4CIHDbrcaQF1f3iL1B8-RJ21zNDf8ZyE-T4/s0/WhatsApp+Image+2020-07-10+at+13.28.26.jpeg' property='og:image'/>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js' type='text/javascript'></script>
+<link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,300,700%7CMontserrat:400,400i,400,500,600,700,700i%7CRighteous" media="all" rel="stylesheet" type="text/css">
+<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
+<link href='//cdn.linearicons.com/free/1.0.0/icon-font.min.css' rel='stylesheet'/>
+<meta charset='utf-8'/>
+<!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </script> <![endif]-->
+<meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://www.midarussalamjati.sch.id/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://www.midarussalamjati.sch.id/' rel='canonical'/>
+<link href='https://www.midarussalamjati.sch.id/feeds/posts/default' rel='alternate' title='MI DARUSSALAM JATI - Atom' type='application/atom+xml'/>
+<link href='https://www.midarussalamjati.sch.id/feeds/posts/default?alt=rss' rel='alternate' title='MI DARUSSALAM JATI - RSS' type='application/rss+xml'/>
+<link href='http://www.blogger.com/feeds/6458317656262290650/posts/default' rel='alternate' title='MI DARUSSALAM JATI - Atom' type='application/atom+xml'/>
+<link href='http://www.blogger.com/openid-server.g' rel='openid.server'/>
+<link href='https://www.midarussalamjati.sch.id/' rel='openid.delegate'/>
+<meta content='ID Google Webmaster Verfikasi' name='google-site-verification'/>
+<meta content='ID Bing Verification' name='msvalidate.01'/>
+<meta content='ID Alexa Verification' name='alexaVerifyID'/>
+<!-- SEO Meta Tag -->
+<meta content='MI DARUSSALAM JATI' name='keywords'/>
+<meta content='Indonesia' name='geo.placename'/>
+<meta content='Nama Author' name='Author'/>
+<meta content='general' name='rating'/>
+<meta content='id' name='geo.country'/>
+<!-- SEO Meta Tag end -->
+<script type="text/javascript">(function() { var a=window,c="jstiming",d="tick";var e=function(b){this.t={};this.tick=function(b,o,f){f=void 0!=f?f:(new Date).getTime();this.t[b]=[f,o]};this[d]("start",null,b)},h=new e;a.jstiming={Timer:e,load:h};if(a.performance&&a.performance.timing){var i=a.performance.timing,j=a[c].load,k=i.navigationStart,l=i.responseStart;0<k&&l>=k&&(j[d]("_wtsrt",void 0,k),j[d]("wtsrt_","_wtsrt",l),j[d]("tbsd_","wtsrt_"))}
+try{var m=null;a.chrome&&a.chrome.csi&&(m=Math.floor(a.chrome.csi().pageT));null==m&&a.gtbExternal&&(m=a.gtbExternal.pageT());null==m&&a.external&&(m=a.external.pageT);m&&(a[c].pt=m)}catch(n){};a.tickAboveFold=function(b){var g=0;if(b.offsetParent){do g+=b.offsetTop;while(b=b.offsetParent)}b=g;750>=b&&a[c].load[d]("aft")};var p=!1;function q(){p||(p=!0,a[c].load[d]("firstScrollTime"))}a.addEventListener?a.addEventListener("scroll",q,!1):a.attachEvent("onsFroll",q);
+ })();</script>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<!-- SEO Title Tag -->
+<title>MI DARUSSALAM JATI</title>
+<!--[if lt IE 9]> <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script> <![endif]-->
+
+<style type="text/css"><!-- /* 
+<style id='page-skin-1' type='text/css'><!--
+#outer-wrapper{width:1100px;}
+#header-wrapper{width:100%;margin-top:70px}
+#header1{float:center;width:20%;}
+#header2{float:center;width:78%;}
+#content-wrapper{width:100%;}
+#ads-banner{width:100%;}
+#main-wrapper{float:left;width:70%;}
+#sidebar-wrapper{float:right;width:30%;}
+#post-left{float:left;width:47%}
+#post-right{float:right;width:47%}
+#footer-wrapper{width:100%}
+#footer-wrapper .left{float:left;width:32%}
+#footer-wrapper .center{float:left;width:32%}
+#footer-wrapper .right{float:right;width:32%}
+#nav-top li, #navi li{list-style:none}
+.menus{display:none !important}
+#navitions{display:none}
+#tengah-kiri{float:left;width:48%}
+#tengah-kanan{float:right;width:48%}
+*/
+--></style>
+<style type='text/css'>
+@font-face{font-family:'Oswald';font-style:normal;font-weight:400;src:local('Oswald Regular'),local('Oswald-Regular'),url(//themes.googleusercontent.com/static/fonts/oswald/v8/-g5pDUSRgvxvOl5u-a_WHw.woff) format('woff')}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
+/* HTML5 display-role reset for older browsers */
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+body{line-height:1;display:block}
+*{margin:0;padding:0}
+html{display:block}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+table{border-collapse:collapse;border-spacing:0}
+/* BLOGGER CSS RESET */
+.navbar,.status-msg-wrap,.post-feeds,.feed-links{display:none}
+.section,.widget{margin:0 0 0 0;padding:0 0 0 0}
+
+
+
+/* ######## Share widget Css ######################### */
+.item .post-footer {
+padding: 0 10px;
+}
+.share-box {
+position: relative;
+padding: 10px 0;
+}
+.share-title {
+border-bottom: 2px solid #777;
+color: #010101;
+display: inline-block;
+padding-bottom: 7px;
+font-size: 15px;
+font-weight: 500;
+position: relative;
+top: 2px;
+}
+.share-art {
+float: right;
+padding: 0;
+padding-top: 0;
+font-size: 13px;
+font-weight: 400;
+text-transform: capitalize;
+}
+.share-art a {
+color: #fff;
+padding: 3px 8px;
+margin-left: 4px;
+border-radius: 2px;
+display: inline-block;
+margin-right: 0;
+background: #010101;
+}
+.share-art a:link{color: #fff;}
+.share-art a:visited{color: #fff;}
+
+.share-art a span {
+    display: none;
+}
+.share-art a:hover{color:#fff}
+.share-art .fac-art{background:#3b5998}
+.share-art .fac-art:hover{background:rgba(49,77,145,0.7)}
+.share-art .twi-art{background:#00acee}
+.share-art .twi-art:hover{background:rgba(7,190,237,0.7)}
+.share-art .goo-art{background:#db4a39}
+.share-art .goo-art:hover{background:rgba(221,75,56,0.7)}
+.share-art .pin-art{background:#CA2127}
+.share-art .pin-art:hover{background:rgba(202,33,39,0.7)}
+.share-art .lin-art{background:#0077B5}
+.share-art .lin-art:hover{background:rgba(0,119,181,0.7)}
+.share-art .wat-art{background:#25d266;display:none;}
+.share-art .wat-art:hover{background:rgba(37, 210, 102, 0.73)}
+@media only screen and (max-width: 768px) {
+.share-art .wat-art{display:inline-block;}
+}
+
+
+/* FRAMEWORK */
+body,.body-fauxcolumn-outer{background:#E7E5E6;font:normal normal 14px Verdana,Geneva,sans-serif;line-height:1.625}
+*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+#clear,.clear{clear:both}
+#navbar-iframe,.post-feeds,.feed-links,.quickedit,.status-msg-wrap{display:none!important}
+.right{float:right}
+.left{float:left}
+img,iframe,table,video,object,embed{max-width:100%}
+img:hover{opacity:0.8;-webkit-transition:all .2s ease-in;-moz-transition:all .2s ease-in;-ms-transition:all .2s ease-in;transition:all .2s ease-in}
+strong,b{font-weight:bold}
+cite,em,i{font-style:italic}
+a:link{color:#859ce6;text-decoration:none}
+a:visited{color:#859ce6;text-decoration:none;-webkit-transition:all .2s ease-in;-moz-transition:all .2s ease-in;-ms-transition:all .2s ease-in;transition:all .2s ease-in}
+a:hover{color:#333;text-decoration:none;-webkit-transition:all .2s ease-in;-moz-transition:all .2s ease-in;-ms-transition:all .2s ease-in;transition:all .2s ease-in}
+a img{border:none;border-width:0;outline:none}
+abbr,acronym{color:#346301;border-bottom:1px dotted;cursor:help;position:relative}
+small{font-size:86%}
+p,blockquote,pre,table,figure,hr,form,ol,ul,dl{margin:0 0 1.2em}
+hr{height:1px;border:none;background-color:#346301}
+h1,h2,h3,h4,h5,h6{font-family:'Oswald',sans-serif;font-weight:400;line-height:1.1;margin:0 0 0.5em}
+h1{font-size:160%}
+h2{font-size:140%}
+h3{font-size:120%}
+h4{font-size:100%}
+h5{font-size:80%}
+h6{font-size:60%}
+dl,ol,ul{margin-left:20px}
+ol{list-style:decimal outside}
+ul{list-style:square outside}
+li{margin:5px 0}
+ol ol,ul ul{margin-left:16px}
+ol li{border-bottom:1px solid #e5e5e5;padding:0 0 5px}
+dl{overflow:hidden}
+li p:first-child,dt p:first-child{margin-top:20px}
+dt{clear:left;float:left;width:26%;text-align:right}
+dd{margin-left:30%;margin-bottom:20px}
+kbd{background-color:#2E3439;color:#fff;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;font-size:86%;padding:2px 6px}
+small{font-size:86%}
+sup,sub{font-size:76%;position:relative;top:.45em}
+sup{top:-.45em}
+mark,.highlight{background-color:#FAD163;color:black}
+mark.highlight{border:1px solid #8D3000}
+pre,code{font-family:"Courier New",Courier,Monospace;color:inherit}
+pre{white-space:pre;word-wrap:normal;overflow:auto}
+form{margin:0;padding:0}
+/*Content*/
+#outer-wrapper{background:#fff;border-top:6px solid #284d00;background-repeat:repeat-x;background-position:top center;width:1000px;margin:0 auto;padding:0px 0 0;overflow:hidden;}
+#content-wrapper{margin:0;padding:15px}
+#main-wrapper{float:left;width:655px;margin:0;padding:0}
+/*Header*/
+#header-wrapper{height:auto;margin:0;padding:0px 0px 0px;overflow:hidden;text-align:center}
+#header1{float:center;width:auto;margin:auto 0;padding:0 }
+#header1 img,#header-inner img{width:auto;max-width:100%}
+#header-inner h1,#header-inner img, #header1 h1,#header-inner h2,#header1 h2, #header-inner .title{font:normal normal 40px Oswald,"Arial Narrow",Sans-Serif;margin:0;padding:0;}
+#header2{float:center;width:728px;margin:auto 0;padding:0}
+/*Social Icon Menu*/
+#social-list{float:right;margin:-5px 0 0;padding:0}
+#social-list ul li{list-style:none!important}
+#social-list .socmed li a{background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgijv6vbSJORQsgmPX-FPkhxjxGfV_EkgWQ2YgqvJBfuEmI88uTftkD-M-xSYpApEJByGkoS9Z5zPgYB8-0ROzUMTWz9E8MBpWIX5mr2EQbqAqbvQGZ0bQrV882KmMzthtarOC4t1KM3n4i/s1600/Social.png);background-repeat:no-repeat;text-indent:-999px;font-size:0;line-height:0;display:block;width:40px;height:40px;-webkit-transition:all 0.15s ease;-moz-transition:all 0.15s ease;-ms-transition:all 0.15s ease;-o-transition:all 0.15s ease;transition:all 0.15s ease;}
+#social-list .socmed li a.facebook{background-position:0px 0px}
+#social-list .socmed li a.facebook:hover{background-position:0px -40px}
+#social-list .socmed li a.twitter{background-position:-40px 0px}
+#social-list .socmed li a.twitter:hover{background-position:-40px -40px}
+
+#social-list .socmed li a.pinterest{background-position:-120px 0px}
+#social-list .socmed li a.pinterest:hover{background-position:-120px -40px}
+#social-list .socmed li a.linkedin{background-position:-160px 0px}
+#social-list .socmed li a.linkedin:hover{background-position:-160px -40px}
+#social-list .socmed li a.youtube{background-position:-200px 0}
+#social-list .socmed li a.youtube:hover{background-position:-200px -40px}
+#social-list .socmed li a.rss{background-position:-240px 0px}
+#social-list .socmed li a.rss:hover{background-position:-240px -40px}
+#social-list .socmed li{float:left}
+.menus{font:normal normal 16px Arial, sans-serif;font-weight:bold;padding:0 0;background:#ffffff;margin:0 auto;height:40px;border-bottom:1px solid #e5e5e5;overflow:hidden}
+.nav-menus{list-style-type:none;margin:0 0 0 0;padding:0 0 0 0}
+.nav-menus li{display:block;float:left;line-height:40px;margin:0 0 0 0;padding:0 0 0 0;border-right:1px solid #e5e5e5}
+.nav-menus li a{background:#ffffff;color:#666666;display:block;padding:0 12px}
+.nav-menus li a:hover{background:#f5f5f5}
+/* NAVIGATION MENU 2 */
+.toggleMenu {display:none;background:#346301;padding:0 15px;height:50px;line-height:50px;color: #fff !important;float:right;}
+#navitions {font:normal bold 14px Arial, sans-serif;background:#1a3200;height:50px;line-height:50px;}
+.nav_menu {background:#1a3200;list-style: none;margin:0 0 0 0;float:left;}
+.nav_menu:after {clear: both;}
+.nav_menu ul {list-style: none;margin:0 0 0 0;width:12em;}
+.nav_menu a {display:block;padding:0 15px;}
+.nav_menu li {position: relative;margin:0 0;}
+.nav_menu > li {float:left;}
+.nav_menu > li > a {display: block;height:50px;line-height:50px;color:#ffffff;}
+.nav_menu > li > a.active {background:#346301;box-shadow: 0 4px 0 #284d00 inset;}
+.nav_menu > li:hover > a {background:#346301;box-shadow: 0 4px 0 #284d00 inset;}
+.nav_menu li ul {background:#1a3200;display:block;position:absolute;left:0;z-index:10;visibility:hidden;opacity:0;transition:all .25s ease-out;transition:all .25s ease-out;-ms-transition:all .25s ease-out;transition:all .25s ease-out;
+transition:all .25s ease-out;}
+.nav_menu li li ul {left:100%;top:-1px;}
+.nav_menu > li.hover > ul {visibility:visible;opacity:10;}
+.nav_menu li li.hover ul {visibility:visible;opacity:10;}
+.nav_menu li li a {display: block;color:#fff;position: relative;z-index:100;line-height:32px;}
+.nav_menu li li a:hover {background:#284d00;}
+.nav_menu li li li a {background:#1a3200;z-index:20;color:#fff;}
+.nav_menu li .parent:after {font-family:Arial;content:"";width:0;height:0;border-width:4px 4px;border-style:solid;border-color:#fff transparent transparent transparent;position:absolute;top:20px;right:3px}
+/*Seach Box*/
+#search-form{background:#1a3200;float:right;margin:0 0;padding:0;width:250px}
+#search-form table{width:100%;margin:0 0 0 0}
+#search-form input#search-box[type="text"]{background:#ffffff;height:36px;line-height:15px;margin:5px 0 5px 10px;padding:0 10px;width:99%;color:#666666;border:none}
+#search-form input#search-button[type="submit"]{background:#284d00;color:#ffffff;height:36px;line-height:36px;margin:5px 5px 5px 0;padding:0 12px;border:none;outline:none;transition:all 0.25s;-moz-transition:all 0.25s;-webkit-transition:all 0.25s}
+#search-form input#search-button[type="submit"]:hover{background:#346301;cursor:pointer}
+#search-form input#search-box[type="text"]:focus{background:#fcf2f2;outline:none}
+/*Breadcrumbs*/
+.breadcrumbs{background:#fff;color:#000;margin:0;padding:10px 15px;border:1px solid #e5e5e5}
+.breadcrumbs a{color:#000}
+.breadcrumbs a:hover{color:#bbb}
+.share{display:block;padding:0;margin:0}
+.post-footer{color:#999;font-style:normal;letter-spacing:0;margin:.3em 0;padding:2px;text-transform:none}
+.post h2{line-height:1.2em;margin:0;padding:0;text-decoration:none;text-align:left}
+.post h2 a,.post h2 a:visited,.post h2 strong{display:block;text-decoration:none;color:#333}
+.post h2 strong,.post h2 a:hover{color:#007abe}
+.post{background:#fff;font-size:14px;margin:0;padding:0;position:relative}
+.post img{padding:0;margin:0;page-break-after:always}
+.date-header{margin:1.5em 0 .5em;display:none}
+blockquote{font-family:Georgia,serif;font-size:15px;font-style:italic;margin:0.25em 0;padding:15px 20px 15px 50px;border:dashed 1px #e5e5e5;line-height:1.45;color:#346301;background:#fff url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5k6XqAqVCjJE-YokEjbNb4nIbGOM8PYpa-9h9gqSOCX5G4Jng2gj5HifNkKc0CR_-eejksqgYaGlzRKMdA6cUdh8aYxHmFb2yL-_RtQ63UW8RL6uim5flxqOp5RZ0lOB0bSK5rNrXH-M/s1600/bg-blockquote.gif) no-repeat 15px 18px;clear:both}
+/*Sidebar Left*/
+#sidebar-wrapper{float:right;width:300px;margin:0;padding:0}
+#ads-banner{width:100%;margin:0;padding:0}
+.sidebar h2,.ads-banner h2{background: #1a3200;padding: 10px;margin:0 0 5px;border-bottom:5px solid #fff;color:#fff;text-transform:uppercase}
+.sidebar,.ads-banner{color:#000;line-height:1.2em;padding:0;margin:0}
+.sidebar .widget-content,.ads-banner .widget-content{margin-bottom:15px;padding:0;overflow:hidden}
+.sidebar ul,.ads-banner ul{list-style:none;margin:0;padding:0}
+.sidebar li, .ads-banner li{margin:0;padding-top:10px;padding-right:0;padding-bottom:10px;border-bottom:1px solid #ddd;padding-left:0;line-height:1.5em}
+.sidebar a, .ads-banner a{color:#222;text-decoration:none}
+.sidebar a:hover, .ads-banner a:hover{color:#e5e5e5;text-decoration:none}
+/*Widget*/
+.PopularPosts ul,.PopularPosts li,.PopularPosts li a{margin:0;padding:0;list-style:none;border:none;background:none;outline:none}.PopularPosts ul{margin:0;list-style:none;color:black;counter-reset:num}.PopularPosts ul li{background-color:#eee;margin:0 0 0 0!important;padding:.5em 1.5em .5em .5em!important;counter-increment:num;position:relative}.item-thumbnail img{float:left;margin:0 10px 0 0}.PopularPosts a{color:#fff!important}.PopularPosts a:hover{color:#222!important}.PopularPosts ul li:before,.PopularPosts ul li .item-title a,.PopularPosts ul li a{font-weight:bold;color:inherit;text-decoration:none}.PopularPosts ul li:before{content:counter(num)!important;display:block;position:absolute;background-color:#333;color:#fff!important;width:22px;height:22px;line-height:22px;text-align:center;bottom:0;right:0;padding-right:0!important}.PopularPosts ul li:nth-child(1){background-color:#f1c40f}.PopularPosts ul li:nth-child(2){background-color:#f39c12}.PopularPosts ul li:nth-child(3){background-color:#2ecc71}.PopularPosts ul li:nth-child(4){background-color:#27ae60}.PopularPosts ul li:nth-child(5){background-color:#e67e22}.PopularPosts ul li:nth-child(6){background-color:#d35400}.PopularPosts ul li:nth-child(7){background-color:#3498db}.PopularPosts ul li:nth-child(8){background-color:#2980b9}.PopularPosts ul li:nth-child(9){background-color:#ea6153}.PopularPosts ul li:nth-child(10){background-color:#346301}.cloud-label-widget-content{text-align:left}.label-size{display:block;background:#fff;float:left;margin:0 2px 2px 0;color:#000!important;border:1px solid #e5e5e5;padding:5px}.label-size:hover{border:1px solid #000;color:#000!important}.label-size a:hover{color:#000!important}
+/*Label*/
+#footer-wrapper .label-size-1,#footer-wrapper .label-size-2,#footer-wrapper .label-size-3,#footer-wrapper .label-size-4,#footer-wrapper .label-size-5{font-size:100%;opacity:10}
+#footer-wrapper .cloud-label-widget-content{text-align:left}
+#footer-wrapper .label-size{background:none;display:block;float:left;margin:0 2px 2px 0;color:#333;border:3px solid #EDEFF1}
+#footer-wrapper .label-size{border:3px solid #444444}
+#footer-wrapper .label-size span{color:#fff!important}
+#footer-wrapper .label-size a,#footer-wrapper .label-size span{display:inline-block;color:#fff!important;padding:5px 8px}
+#footer-wrapper .label-size:hover{border:3px solid #07ACEC}
+/*Credit*/
+#credit{background:#346301;border-top: 1px solid #284d00;max-width:100%;line-height:1.6em;text-align:center;font-size:14px;color:#fff;overflow:hidden;clear:both;margin:0 auto;padding:10px 15px;position:relative;-moz-box-shadow: 0px 0px 2px black;-webkit-box-shadow: 0px 0px 2px black;box-shadow: 0px 0px 2px black;}
+#credit a{color:#fff;text-decoration:none}
+#credit a:hover{color:#e5e5e5;text-decoration:none}
+/*Footer Wrapper*/
+#footer-wrapper{background:#1a3200;border-top:6px solid #284d00;background-repeat:repeat-x;background-position:top center;overflow:hidden;margin:0 auto;padding:20px 15px 0;color:#fff;}
+#footer-wrapper .left{float:left;width:34%}
+#footer-wrapper .center{float:left;width:34%}
+#footer-wrapper .right{float:right;width:32%}
+#footer-wrapper .left .widget,#footer-wrapper .center .widget{margin:0 15px 15px 0;clear:both}
+#footer-wrapper .right .widget{margin:0 0 15px 0;clear:both}
+#footer-wrapper h2{margin:0 0 10px 0;padding:0 0 5px;border-bottom:3px solid #284d00;text-transform:uppercase;position:relative;color:#eeeeee}
+#footer-wrapper ul,#footer-wrapper ol{list-style:none;margin:0 0 0 0;padding:0 0 0 0}
+#footer-wrapper li{margin:5px 0;padding:0 0 0 0}
+#footer-wrapper a{color:#fff;font-weight:bold}
+#footer-wrapper a:hover{color:#ffffff}
+/* Facebook Comments */
+.fbbox-comments {box-sizing: border-box;-moz-box-sizing: border-box;background:#f6f6f6;border:1px solid #e5e5e5;margin: 0 0 15px;}
+.fb-comments{width: 100% !important;}
+.fb-comments iframe[style]{width: 100% !important;}
+.fb-like-box{width: 100% !important;}
+.fb-like-box iframe[style]{width: 100% !important;}
+.fb-comments span{width: 100% !important;}
+.fb-comments iframe span[style]{width: 100% !important;}
+.fb-like-box span{width: 100% !important;}
+.fb-like-box iframe span[style]{width: 100% !important;}
+/*Komentar*/
+#comments{background:#fff;border:1px solid #e5e5e5;margin:15px  0 0;padding:15px}
+#comments h5{color:#000;margin:0;padding:0 0 5px;font-size:160%}
+.comment_inner{margin:15px 0;padding:0;overflow:hidden}
+.comment_header{float:left;width:67px}
+.cm_head{position:relative;background:#fff;border-bottom:1px solid #e5e5e5;margin:-10px -10px 0;padding:5px 10px 8px;}
+.comment_avatar{border:1px solid #e5e5e5;margin:0;padding:5px 5px 0;}
+.comment_avatar img{width:55px;height:55px;padding:0;text-align:center;margin:0;background:#fcfcfc url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwEDbFBVfq_rYSUlG5z-rnQb3glUkjYHEXtED2L3qBGhPewNR5w8xHBCr2zqT1ibmIX-qOL-Oilhq4o9chi5L90SkiCSrSY0PUBf3JtranYjx84jqBVTZ0Y2CRxDrhWYlqUZog7ISU97Dv/s1600/anonymous.jpg) no-repeat}
+div.comment_avatar img[src="http://img1.blogblog.com/img/openid16-rounded.gif"]{content:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwEDbFBVfq_rYSUlG5z-rnQb3glUkjYHEXtED2L3qBGhPewNR5w8xHBCr2zqT1ibmIX-qOL-Oilhq4o9chi5L90SkiCSrSY0PUBf3JtranYjx84jqBVTZ0Y2CRxDrhWYlqUZog7ISU97Dv/s1600/anonymous.jpg)}
+.comment_name,.comment_name a{font-family:Oswald, Calibri, Sans-Serif;padding:0;margin:0 0 5px 0;font-size:18px;}
+.comment_service{margin-top:0}
+.comment_date{margin:0;color:#d6d5d5;font-size:14px;text-transform:uppercase}
+.respond{float:right;margin:0;padding:0}
+.comment_date:hover{color:#bbb;text-decoration:underline}
+.comment_body{background:#fff;border:1px solid #e5e5e5;margin-left:77px;padding:10px;}
+.comment_body p{line-height:1.4;margin:15px 0 5px;color:#346301;font-size:14px;word-wrap:break-word;padding:0;}
+.comment_child .comment_wrap{padding-left:78px}
+.comment-delete{position:absolute;float:right;top:10px;right:10px;margin:0;padding:0}
+.infonm{float:left}
+.comment_reply{display:block;font-weight:700;margin:10px 0 0;padding:7px 0;color:#fff!important;text-align:center;text-decoration:none!important;background:#3498db;}
+.comment_reply:hover{text-decoration:none;background:#2980b9}
+.comment_hapus{font-weight:700;margin:0;padding:0;color:#fff!important;text-decoration:none;}
+.comment_hapus:hover{text-decoration:none;color:#000!important}
+.unneeded-paging-control{display:none}
+.comment-form{max-width:100%!important}
+#comment-editor{width:100%!important;background:#fff url('data:image/gif;base64,R0lGODlhKwALAPAAAKrD2AAAACH5BAEKAAEAIf4VTWFkZSBieSBBamF4TG9hZC5pbmZvACH/C05FVFNDQVBFMi4wAwEAAAAsAAAAACsACwAAAjIMjhjLltnYg/PFChveVvPLheA2hlhZoWYnfd6avqcMZy1J14fKLvrEs/k+uCAgMkwVAAAh+QQBCgACACwAAAAAKwALAIFPg6+qw9gAAAAAAAACPRSOKMsSD2FjsZqEwax885hh3veMZJiYn8qhSkNKcBy4B2vNsa3pJA6yAWUUGm9Y8n2Oyk7T4posYlLHrwAAIfkEAQoAAgAsAAAAACsACwCBT4OvqsPYAAAAAAAAAj1UjijLAg9hY6maalvcb+IPBhO3eeF5jKTUoKi6AqYLwutMYzaJ58nO6flSmpisNcwwjEfK6fKZLGJSqK4AACH5BAEKAAIALAAAAAArAAsAgU+Dr6rD2AAAAAAAAAJAVI4oy5bZGJiUugcbfrH6uWVMqDSfRx5RGnQnxa6p+wKxNpu1nY/9suORZENd7eYrSnbIRVMQvGAizhAV+hIUAAA7') no-repeat 50% 40%;margin-bottom:0;margin-top:5px}
+.comment_form a{text-decoration:none;font-weight:bold;font-size:14px}
+.comment-form p{background:#fff;padding:10px;margin:5px 0 5px 0;color:#000;font-size:14px;line-height:20px;position:relative}
+.comment_reply_form{padding:0 0 0 70px}
+.comment_reply_form .comment-form{width:100%}
+iframe{border:none;overflow:hidden}
+.deleted-comment{background:#e74c3c;color:#fff;padding:15px 10px;margin:5px 0;display:block}
+iframe{border:none;overflow:hidden}
+.comment-form p{border:1px solid #e5e5e5;color:#000;margin-bottom:15px;padding:15px}
+/*Back To Top*/
+#top{background-color:#444;margin:0;padding:10px;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;position:fixed;bottom:10px;right:10px;cursor:pointer;display:none;}
+#top:hover{background-color:#E73138}
+@media screen and (max-width:1024px){
+#outer-wrapper{width:100%;overflow:hidden}}
+@media screen and (max-width:980px){
+#outer-wrapper{width:100%}
+#main-wrapper{float:none;width:100%;margin:0;padding:0}
+#sidebar-wrapper{float:none;width:auto;margin:15px 0 0}
+#header-wrapper{height:auto}
+#header{margin:0;padding:15px;overflow:hidden}
+#header1{float:none;width:100%;margin:0 0 0px;padding:0;text-align:center}
+#header2{float:none;width:100%;margin:10px 0 0;padding:0;text-align:center}
+#header-inner img{max-width:100%;width:100%;margin:0 auto;padding:0;text-align:center}
+#navitions{background:#1a3200;border-bottom:none}
+#mobilenav{display:block;text-indent:-9999px;width:52px;top:0;left:0;position:absolute;height:46px;outline:0;background-color:#ea6153;color:#FFFFFF;text-decoration:none}
+#mobilenav.active{color:#D16400}
+.menu a.home:before{display:none}
+#mobilenav:before{content: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0vQCHet1xYWcevqohhLamkVwArJTkQFNxqI2hzi3urjUa28WPs54GVYFiAKvW4CZ2fwS-NigCDIYmTEgL5ST3mlruwF3wbhF4xRcC4iie4wRRdAYezPTJ5IoLy676m7GlaeakMrke6IWc/s37/resnav.png);position:absolute;top:2px;text-indent:0;left:8px;font-size:30px}
+#menunav{float:none;display:none;position:absolute;top:46px;left:0;right:0;z-index:99;background-color:#2C2C2C;padding:5px}
+#menunav li{float:none;margin:0}
+#menunav > li{margin:1px 0}
+.menu a.home,.menu a{text-indent:0;margin-left:0;width:auto;height:auto;padding:0 10px;line-height:30px;background-color:#1D1D1D}
+.menu ul{position:static;padding-top:0}
+.menu ul li,.menu ul ul li{background-color:transparent}
+.menu ul a{padding-left:20px}
+.menu ul ul a{padding-left:30px}
+.menu li:hover > ul,.menu li.sfHover > ul{display:none}
+.menu li:hover > a,.menu li.sfHover{background-color:transparent}
+.menu a.home,.menu li:hover > a.home,.menu > li > a.current{color:#FFFFFF;background-color:#ea6153}}
+@media screen and (max-width:960px){
+#outer-wrapper{width:100%}
+.nav {float:none;width:100%;max-width:100%;}
+.active {display: block;}
+.nav > li {float: none;overflow:hidden;}
+.nav ul {display: block;width: 100%;float:none;}
+.nav_menu li ul {background:#222;border:none;box-shadow:none;}
+.nav_menu li li ul {background:#222;}
+.nav_menu li li a:hover {background:#000;}
+.nav_menu li .parent:after {top:23px;right:9px}
+.nav > li.hover > ul , .nav li li.hover ul {position: static;}
+#search-form{background:#444;width:100%;margin:0 0 0 0!important;}
+#search-form td.search-box{padding:0 10px!important;margin:0}
+#search-form td.search-button{padding:0 10px;margin:0;width:1%}
+#search-form input#search-box[type="text"]{margin:0 0 0 0}
+#search-form input#search-button[type="submit"]{margin:0 0 0 -26px;}
+}
+@media screen and (max-width:768px){
+#footer-wrapper .left{float:none;width:100%}
+#footer-wrapper .center{float:none;width:100%}
+#footer-wrapper .right{float:none;width:100%}
+#footer-wrapper .left .widget,#footer-wrapper .center .widget{margin:0 0 15px;clear:both}
+}
+@media screen and (max-width:384px){
+#header-wrapper{margin:0;padding:0;overflow:hidden}
+#content-wrapper{margin:0;padding:10px}
+.sidebar .widget-content,.ads-banner .widget-content.tengah-kiri .tengah-kanan{margin-bottom:10px;}
+#comments{margin:10px  0 0;padding:10px}
+.comment_avatar, .comment_avatar img{display:none}.comment_header{float:none;width:100%;}.respond{float:right;margin:0;padding:0}.comment_body{background:#fff;border:1px solid #e5e5e5;margin-left:0;padding:10px;}.comment_child .comment_wrap{padding-left:0}}
+</style>
+<style type='text/css'>
+.post h2{margin:0 0 5px;border:none;}
+.post{background:#fff;border:1px solid #e5e5e5;margin:0 0 15px;padding:15px;color:#000;}
+.breadcrumbs{margin:0 0 15px}
+.post-thumbnail img{float:left;margin:0 15px 0 0;background:#fff;width:150px;height:100px;padding:0;border:none;box-shadow:none}
+/*Navigasi*/
+#blog-pager{text-align:center;padding:15px 0 0;margin:0;}
+#blog-pager-older-link a{float:right;width:auto;text-align:center;display:inline-block;color:#fff;text-transform:none;margin:0;padding:4px 8px;background:#5498C9;font-size:14px}
+#blog-pager-older-link a:hover, #blog-pager-home-link a:hover, #blog-pager-newer-link a:hover{background-color:#056b95;}
+#blog-pager-home-link a{width:auto;text-align:center;display:inline-block;color:#fff;text-transform:none;margin:0;padding:4px 8px;background:#5498C9;font-size:14px}
+#blog-pager-newer-link a{float:left;width:auto;text-align:center;display:inline-block;color:#fff;text-transform:none;margin:0;padding:4px 8px;background:#5498C9;font-size:14px}
+.post-info-icon{background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinsaMKjzX1EJ49goD6Vpghaz3-dJJRCjfLGwQ1RGG7nGnOZj6832ZMbejqNcphHi7snVyrYhE-Z0Et_5ufUpYkJTkUhZM4EMcCasurcXSglfznioiy2FtrYImXfCGUZhbSM3Tt5p8nauY/s1600/icnall.png);background-repeat:no-repeat;}
+.post-info{display:block;margin:10px 0;padding:3PX 0;color:#aaa;line-height:1.1em;border-top:6px dotted #e2e2e2;border-bottom:1px dotted #e2e2e2;font-size:14px;overflow:hidden;}
+.post-info a{color:#aaa;}
+.post-info-icon{display:inline-block;float:left;margin:0 12px 0 0;}
+.post-info a:hover{color:#000;}
+.jam{background-position:0 -98px;height:16px;padding:0 0 0 17px}
+.komentar{background-position:0 -132px;height:16px;padding:0 0 0 17px;}
+.label{background-position:0 -166px;height:16px;padding:0 0 0 17px;}
+.admin{background-position:0 1px;height:16px;padding:0 0 0 17px;}
+.tanggal{background-position:0 -32px;height:16px;padding:0 0 0 17px;}
+.pagenavi{clear:both;margin:15px 0 10px;text-align:center;font-weight:bold;color:#000!important;text-transform:uppercase}
+.pagenavi span,.pagenavi a{padding:5px 10px;margin-right:3px;display:inline-block;color:#000!important;background-color:#fff;border:1px solid #e5e5e5}
+.pagenavi .current{color:#000!important;border:1px solid #222}
+.pagenavi .current,.pagenavi .pages,.pagenavi a:hover{color:#000!important;border:1px solid #222}
+.pagenavi .pages {display:none}
+/*Post Left*/
+#post-right{float:right;width:48.8%;;margin:15px 0 0;padding:0}
+#post-left{float:left;width:48.8%;;margin:15px 0 0;padding:0}
+.post-left h2,.post-right h2{background:#e74c3c;padding:10px;margin:0;color:#fff;text-transform:uppercase}
+.post-left,.post-right{color:#000;line-height:1.2em;padding:0;margin:15px 0 0}
+.post-left .widget-content,.post-right .widget-content{background:#fff;border:1px solid #e5e5e5;border-top:3px solid #346301;margin:0;padding:10px 15px 15px;overflow:hidden}
+.post-left ul,.post-right ul{list-style:none;margin:0;padding:0}
+.post-left li,.post-right li{margin:0;padding-top:10px;padding-right:0;padding-bottom:10px;border-bottom:1px solid #ddd;padding-left:0;line-height:1.5em}
+.post-left li:first-child,.post-right li:first-child{padding-top:0;}
+.post-left a,.post-right a{color:#222;text-decoration:none}
+.post-left a:hover,.post-right a:hover{color:#859ce6;text-decoration:none}
+
+/*Post Left*/
+#tengah-kanan{float:right;width:48.8%;;margin:15px 0 0;padding:0}
+#tengah-kiri{float:left;width:48.8%;;margin:15px 0 0;padding:0}
+.tengah-kiri h2,.tengah-kanan h2{background: #1a3200;padding: 10px;margin:0 0 5px;border-bottom:5px solid #fff;color:#fff;text-transform:uppercase}
+.tengah-kiri,.tengah-kanan{color:#000;line-height:1.2em;padding:0;margin:15px 0 0}
+.tengah-kiri .widget-content .tengah-kanan .widget-content{background:#fff;border:1px solid #e5e5e5;border-top:3px solid #0c4701;margin:0;padding:10px 15px 15px;overflow:hidden}
+.tengah-kiri ul,.tengah-kanan ul{list-style:none;margin:0;padding:0}
+.tengah-kiri li,.tengah-kanan li{margin:0;padding-top:10px;padding-right:0;padding-bottom:10px;border-bottom:1px solid #ddd;padding-left:0;line-height:1.5em}
+.tengah-kiri li:first-child,.tengah-kanan li:first-child{padding-top:0;}
+.tengah-kiri a,.tengah-kanan a{color:#222;text-decoration:none}
+.tengah-kiri a:hover,.tengah-kanan a:hover{color:#859ce6;text-decoration:none}
+
+
+/* Recent Post */
+img.rct-thumb{float:left;margin-right:10px;height:72px;width:72px;}
+.recent-by-tag{width:100%;margin:0;padding:0}
+ul.recent-by-tag li{padding:10px 0;margin-bottom:0;border-bottom:1px solid #ddd}
+ul.recent-by-tag li:first-child{padding:0;}
+.recent-by-tag li{font-size:13px;list-style:none;padding-left:0;margin:0;padding:0;overflow:hidden}
+.recent-by-tag a{font-family:'Oswald',sans-serif;font-size:16px;font-weight:normal;margin:0;}
+.recent-by-tag strong{padding-left:0}
+span.showdates{font-size:16px;margin:10px 0 0}
+.recent-by-tag li:last-child {border-bottom:none;padding-bottom:0px;margin-bottom:0px;}
+@media screen and (max-width:768px){
+#post-left{float:none;width:100%}
+#post-right{float:none;width:100%}
+}
+
+@media screen and (max-width:980px){
+#tengah-kiri{float:none;width:100%}
+#tengah-kanan{float:none;width:100%}
+}
+
+
+
+
+@media screen and (max-width:384px) {
+.post{padding:10px;margin:0 0 10px}
+.post-info-icon{float:none}
+.post-thumbnail img{display:inline}
+.pagenavi{clear:both;margin:15px 0 10px;text-align:center;font-weight:bold;color:#fff !important;text-transform:uppercase}
+.pagenavi span,.pagenavi a{padding:5px;}}
+</style>
+<!--[if IE]><script src='//html5shiv.googlecode.com/svn/trunk/html5.js' type='text/javascript'></script><![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type='text/javascript'>
+//Setting Recent Post By Tag
+var numposts = 5;
+var showpostthumbnails = true;
+var showpostdate = true;
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+//Post Image
+function bp_thumbnail_resize(image_url,post_title){var image_width=200;var image_height=150;image_tag='<img width="'+image_width+'" height="'+image_height+'" src="'+image_url.replace('/s72-c/','/w'+image_width+'-h'+image_height+'-c/')+'" alt="'+post_title.replace(/"/g,"")+'" title="'+post_title.replace(/"/g,"")+'" itemprop="image"/>';if(post_title!="")return image_tag;else return""}
+//Recent Post By Tag
+function rcentbytag(e){document.write('<ul class="recent-by-tag">');for(var t=0;t<numposts;t++){var n=e.feed.entry[t];var r=n.title.$t;var i;if(t==e.feed.entry.length)break;for(var o=0;o<n.link.length;o++){if(n.link[o].rel=="replies"&&n.link[o].type=="text/html"){var u=n.link[o].title;var f=n.link[o].href}if(n.link[o].rel=="alternate"){i=n.link[o].href;break}}var l;try{l=n.media$thumbnail.url}catch(h){s=n.content.$t;a=s.indexOf("<img");b=s.indexOf('src="',a);c=s.indexOf('"',b+5);d=s.substr(b+5,c-b-5);if(a!=-1&&b!=-1&&c!=-1&&d!=""){l=d}else l="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj23inonPWoenqx40lhaid_P9SN3LaQ33SGeSaewOiGhfG6I12xTakUEVXcCkKbj_TOkYo003ZViOblJ0KhE6Y3PKMLB6VsQk3GyAKhhC0ZTKHk-GeZZO4QKjxmeydiRe0GERtXPiTMoiPQ/s70-c/KM+Icon.png"}var p=n.published.$t;var v=p.substring(0,4);var m=p.substring(5,7);var g=p.substring(8,10);var y=new Array;y[1]="Januari";y[2]="Februari";y[3]="Maret";y[4]="April";y[5]="Mei";y[6]="Juni";y[7]="Juli";y[8]="Agustus";y[9]="September";y[10]="Oktober";y[11]="November";y[12]="Desember";document.write('<li class="clear">');if(showpostthumbnails==true)document.write('<a href="'+i+'" target ="_blank" title="'+r+'" rel="nofollow"><img class="rct-thumb" alt="'+r+'" src="'+l+'"/></a>');document.write('<strong><a href="'+i+'" target ="_blank" title="'+r+'" rel="nofollow">'+r+'</a></strong>');document.write('<br>');var x="";var T=0;if(showpostdate==true){x='<span class="showdates">'+x+g+" "+y[parseInt(m,10)]+" "+v+"</span>";T=1}document.write(x);document.write("</li>");if(t!=numposts-1)document.write("")}document.write("</ul>")}
+//Scroll Top
+(function(a){a(window).scroll(function(){if(a(this).scrollTop()>280){a("#top").removeAttr("href");a("#top").fadeIn()}else{a("#top").fadeOut()}});a(function(){a("#top").click(function(){a("html, body").animate({scrollTop:0},"slow");return false})})})(jQuery);
+//Facebook Comment
+window.fbAsyncInit = function() {
+FB.init({
+appId : '1429211847343737',
+status : true, // check login status
+cookie : true, // enable cookies to allow the server to access the session
+xfbml : true // parse XFBML
+});
+};
+//]]>
+</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6458317656262290650&amp;zx=5d61bcd3-69f8-4042-9ade-0d5081549aa6' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=6458317656262290650&amp;zx=5d61bcd3-69f8-4042-9ade-0d5081549aa6' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+</head>
+<body class='index' itemscope='' itemtype='http://schema.org/WebPage'>
+<!-- outer wrapper start -->
+<div class='ltr' id='outer-wrapper'>
+<!-- header wrapper start -->
+<header id='header-wrapper'>
+<div class='header1 section' id='header1'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<h1 style='text-indent:-9999px;margin:0 0 0 0;padding:0 0 0 0;height:0px;'>
+<span itemprop='name'>MI DARUSSALAM JATI</span>
+</h1>
+<a href='https://www.midarussalamjati.sch.id/' style='display: block'>
+<img alt='MI DARUSSALAM JATI' id='Header1_headerimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZ-mKq8SU1Kp2k_i02hyphenhyphenV1kkapn2lkaQklPqrPFZ1crW-V5FUo1hjVChamprb0ovk02sHr9RbV4EAnfkc9u_XMAnxxNXzlQQXrmCSuTLNwOgJLh9Dw2FNJnmFYyaHHlVug0Zfusk97NM/s1600/mi+darussalam+jati.png' style='display: block'/>
+</a>
+</div>
+</div></div>
+</header>
+<!-- header wrapper end -->
+<div class='clear'></div>
+<!-- navigation menu start -->
+<div id='navitions'>
+<nav class='navix' id='nav' itemscope='itemscope' itemtype='http://schema.org/SiteNavigationElement'>
+<a class='toggleMenu' href='#'>Menu</a>
+<!-- secondary navigation menu start -->
+<ul class='nav nav_menu'>
+<li><a class='active' href='/'>Home</a></li>
+<li><a href='/p/profil.html'>Profil Madrasah</a></li>
+<li><a href='/p/dewan-guru-dan-karyawan.html'>Guru</a></li>
+<li><a href='/p/siswa.html'>Siwa</a></li>
+<li><a href='/p/alumni.html'>Alumni</a></li>
+<li><a href='/p/fitur.html'>Fitur</a></li>
+<li><a href='/p/elearning.html'>E-Learning</a></li>
+</ul>
+<!-- secondary navigation menu start -->
+<!-- search box start -->
+<form action='/search' id='search-form' method='get' style='display: inline;'><table><tbody><tr><td class='search-box'><input id='search-box' name='q' onblur='if(this.value==&#39;&#39;)this.value=this.defaultValue;' onfocus='if(this.value==this.defaultValue)this.value=&#39;&#39;;' type='text' value='Pencarian'/></td>
+<td class='search-button'><input id='search-button' type='submit' value='Search'/></td></tr></tbody></table></form>
+<!-- search box end -->
+</nav>
+</div>
+<!-- navigation menu end -->
+<div class='clear'></div>
+<!-- content wrapper start -->
+<div id='content-wrapper'>
+<div class='ads-banner section' id='ads-banner'><div class='widget HTML' data-version='1' id='HTML6'>
+<div class='widget-content'>
+<!--  Camera_Slideshow Styles  -->
+<link rel="stylesheet" id="camera-css" href="//project.dimpost.com/camera-slideshow/css/camera.css" type="text/css" media="all">
+<!-- Camera Slideshow Scripts -->
+<script type='text/javascript' src='https://code.jquery.com/jquery-2.1.4.min.js'></script>
+<script type="text/javascript" src="//project.dimpost.com/camera-slideshow/scripts/jquery.mobile.customized.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<script type="text/javascript" src="//project.dimpost.com/camera-slideshow/scripts/camera.min.js"></script>
+<script type='text/javascript'>
+jQuery(function() {
+    jQuery('#camera_wrap_1').camera({
+        time: 5500, // milliseconds between the end of the sliding effect and the start of the nex one
+        transPeriod: 1200, // length of the sliding effect in milliseconds
+        thumbnails: false, // thumnails & tooltip is controlled by it
+        pagination: true, // only when "pagination" is set to "false" thumbnails will be visible
+        fx: 'curtainTopLeft, curtainTopRight, curtainBottomLeft, curtainBottomRight, curtainSliceLeft, curtainSliceRight, blindCurtainTopLeft, blindCurtainTopRight, blindCurtainBottomLeft, blindCurtainBottomRight, blindCurtainSliceBottom, blindCurtainSliceTop, stampede, mosaic, mosaicReverse, mosaicRandom, mosaicSpiral, mosaicSpiralReverse, topLeftBottomRight, bottomRightTopLeft, bottomLeftTopRight, bottomLeftTopRight, scrollLeft, scrollRight, scrollHorz, scrollBottom, scrollTop', // transition effects
+        hover: false, // Pause on hover
+        height: '50%' // slideshow height (50% is default)
+    });
+});
+</script>
+<style type="text/css">
+.fluid_container {
+    margin: 0 auto;
+    /* aling centered */
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+
+/* Blogger CSS Conflict Fix */
+
+.camera_pag_ul {
+    border: none !important;
+    background: none !important;
+}
+
+.camera_pag_ul li {
+    float: inherit !important;
+    padding: inherit !important;
+}
+
+.camera_pag_ul {
+    margin: 0 !important;
+    border: 0 !important;
+}
+</style>
+<div class="fluid_container">
+    <!-- camera_slideshow camera_wrap-->
+    <div class="camera_wrap" id="camera_wrap_1">
+       
+        <div data-link="#" data-thumb="#" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRCoD7juLwocGT3caq0-vbA_Gvqb5ew_dLmqIou5CYNhowuvfvMrmGz5oV-GKu-ItoYD2nf0XcUB7b1AyfvewPMYXThyphenhyphene7i78uFxNQqlrpR63FyboU7APX_7f48GB42ZJt7E35WHGx1N8/d/GERBANG+MI+DARUSSALAM+JATI.jpeg">
+            <div class="camera_caption fadeFromBottom">
+              Gerbang MI DARUSSALAM JATI
+            </div>
+        </div>
+
+
+ <div data-link="#" data-thumb="#" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ11VBR7hVegVo4mo5wZG-l3OMCx_xZyR0LNYsOJluSn0UCAhi6PGO-5X7Fj2mFVNgN_r9G8Ax27QHZbVa0QQFBN1S_uPHjz3JPBwilCf2ULOIutICI7XFBNLS12l4Q5si7YkFsEY49a0/d/gedung+MI+DARUSSALAM+JATI.jpeg">
+            <div class="camera_caption fadeFromBottom">
+            
+            </div>
+        </div>
+
+
+
+  <div data-link="#" data-thumb="#" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIFjC9v4ExKYamqiAMMJw8uUEFPmAB2Om5YdXY-7edUifAzCKjD_wbz0_usFfeXmm2kG0-0Kbr4uU856gZhBGg_VpBEFjoKaaM1v8odXK8W9Ppdv1Y_p0BOozcMEz9Zwq1dSF3q5Z-cM/d/GEDUNG+MI+DARUSSALAM+JATI+TAMPAK+BELAKANG.jpeg">
+            <div class="camera_caption fadeFromBottom">
+          
+            </div>
+        </div>
+
+
+
+        <div data-link="#" data-thumb="#" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjnoJOWgI2vRTiUpWUMlji__YB4cIORvQK-3iW_LlkEA_YfhiHPTRBXw_usIhIUt4hffE5hdhZybL_07yQe27xkkBXDlC5ycTKeOYld6so1TBd0s1-3g_ISPJGmEieAz9IL-MXNP4e4cM/d/wisuda+siswa+mi+darussalam+jati.jpeg">
+            <div class="camera_caption fadeFromBottom">
+                
+            </div>
+        </div>
+       <div data-link="#" data-thumb="#" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_bzs8rXbOjEQYQhMPRjzf0gUdE2rlmsS4MBtad-kcB4d8h6shFN-lN2TmuM3icO71UQtRONe8Ym-_HwAZVGTx5tDwW1pklX1W3j2-oYwWSfMVVlDCuy3uWMFgePuJdyU0g_0IZ7spzE/d/KEGIATAN+PRAMUKA+MI+DARUSSALAM+JATI.jpeg">
+            <div class="camera_caption fadeFromBottom">
+                
+            </div>
+        </div>
+   
+      
+        </div>
+    </div>
+    <!-- #camera_wrap_1 -->
+
+<!-- .fluid_container -->
+</div>
+<div class='clear'></div>
+</div></div>
+<div class='tengah-kiri section' id='tengah-kiri'><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<div><span style="font-family:Georgia, serif;">Assalam mu&#8217;alaikum wr. wb.</span></div><div><span style="font-family:Georgia, serif;"><br /></span></div><div><span style="font-family:Georgia, serif;">Puji syukur rahmad dan karunia Allah SWT sehingga saya mampu menuliskan kata sambutan Kepala madrasah dalam rangka penerbitan website MI Darussalam Jati  sebagai sarana informasi dan komunikasi up date sekolah ini melalui dunia maya. Untuk itu saya mengucapkan banyak terima kasih kepada semua pihak yang mendukung terbitnya website ini, terutama kepada TIM IT MI Darussalam Jati yang selalu berusaha meningkatkan layanan IT-nya.</span></div><div><span style="font-family:Georgia, serif;"><br /></span></div><div><span style="font-family:Georgia, serif;"><a href="https://www.midarussalamjati.sch.id/2020/07/sambutan-kepala-madrasah-ibtidaiyah-jati.html">Baca Selengkapnya > > > ></a></span></div>
+</div>
+<div class='clear'></div>
+</div></div>
+<div class='tengah-kanan section' id='tengah-kanan'><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d987.7214686401409!2d111.97877022916632!3d-8.010704271620895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78fb12569c9981%3A0x489f5fa89e64c43f!2sMI%20Darussalam%20Jati%2C%20Udanawu%2C%20Blitar%2C%20Jawa%20Timur!5e0!3m2!1sen!2sid!4v1594180599115!5m2!1sen!2sid" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
+<div class='clear'></div>
+</div></div>
+<!-- main wrapper start -->
+<div id='main-wrapper' itemprop='mainContentOfPage'>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-4338393505825623008'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2021/09/latihan-soal-akmasesmen-komentasi.html'><script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsTQ8EZzrVk2hyX5_eHunr5GONkUn7-Mn2NZsLPd6PtQlbC6qeGalW6P4oldOXBZhtuN0TDkbHQmOj7tof7XU5Xrr-mIq4MtjvBm08mNUrgP9BUaFWJP7tIQjaWMWggxyJNRPDg-sZTZcy/s72-c/AKM+I.jpg","LATIHAN SOAL AKM(ASESMEN KOMENTASI MADRASAH)"));
+      </script></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='LATIHAN SOAL AKM(ASESMEN KOMENTASI MADRASAH)'>
+<a href='https://www.midarussalamjati.sch.id/2021/09/latihan-soal-akmasesmen-komentasi.html' title='LATIHAN SOAL AKM(ASESMEN KOMENTASI MADRASAH)'>LATIHAN SOAL AKM(ASESMEN KOMENTASI MADRASAH)</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2021/09/latihan-soal-akmasesmen-komentasi.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2021-09-14T19:28:00-07:00'>
+September 14, 2021
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+&#160; LATIHAN SOAL AKM A. SOAL LITERASI PAKET 1 :&#160; https://forms.gle/CHzQCH6tD74YkpCF6 &#160; PAKET 2 : https://forms.gle/WP1D1Y3wbbuq6Saf7 PAKET 3: ...
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-6072198110652605587'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2021/09/scan-ijazah-alumni-2021.html'><div class='postthumb'><img alt="SCAN IJAZAH ALUMNI 2021" itemprop="image" src="//3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s160/picture_not_available.png" title="SCAN IJAZAH ALUMNI 2021"></div></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='SCAN IJAZAH ALUMNI 2021'>
+<a href='https://www.midarussalamjati.sch.id/2021/09/scan-ijazah-alumni-2021.html' title='SCAN IJAZAH ALUMNI 2021'>SCAN IJAZAH ALUMNI 2021</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2021/09/scan-ijazah-alumni-2021.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2021-09-09T09:41:00-07:00'>
+September 09, 2021
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+&#160;
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-5953032818032407156'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2021/04/nisn-alumni-2021.html'><div class='postthumb'><img alt="NISN ALUMNI 2021" itemprop="image" src="//3.bp.blogspot.com/-zP87C2q9yog/UVopoHY30SI/AAAAAAAAE5k/AIyPvrpGLn8/s160/picture_not_available.png" title="NISN ALUMNI 2021"></div></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='NISN ALUMNI 2021'>
+<a href='https://www.midarussalamjati.sch.id/2021/04/nisn-alumni-2021.html' title='NISN ALUMNI 2021'>NISN ALUMNI 2021</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2021/04/nisn-alumni-2021.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2021-04-19T18:39:00-07:00'>
+April 19, 2021
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+https://drive.google.com/drive/folders/1N2pgfrBxJFzvcermo0icPuAc58mTDGuJ?usp=sharing
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-7309660008044398922'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2020/09/httpwww.html'><script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSpxJvt-y1otwO98gw3toX5KuXdvjrPle7aN5v4VUUzeJ7PNU8jcSWpCkgN3dr8iX-JEgH1vSGmHxFsCAFYPZHe2be5MYNt43WwEB1Fs0RhuQUeQSSIUWkuNI6_ga1gSqGfii4xWCaI_Op/s72-c/WhatsApp+Image+2020-09-10+at+10.28.14.jpeg","SCAN IJAZAH ALUMNI 2020"));
+      </script></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='SCAN IJAZAH ALUMNI 2020'>
+<a href='https://www.midarussalamjati.sch.id/2020/09/httpwww.html' title='SCAN IJAZAH ALUMNI 2020'>SCAN IJAZAH ALUMNI 2020</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2020/09/httpwww.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2020-09-09T20:59:00-07:00'>
+September 09, 2020
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+HASIL SCAN IJAZAH TAHUN LULUS 2020 https://drive.google.com/drive/folders/13B8cdYvZP78K1PBBdbKb19xy2ABp5R8c?usp=sharing &#160;
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-5597369695049343076'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2020/09/nisn-alumni-2020.html'><script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3vE7wzMJtE9BIYKGn-kV_uBHKjwoC7B_y96DCWLUOxZrLzsIy24bl3XL0UKYoBeOEKMufawrIhP-jaMnE9Bio48ZUjtp8Hkt-IQNFe91sWkvmJaHo_q0NganGokPA5FFGZygdqkYeEEk6/s72-c/WhatsApp+Image+2020-09-02+at+08.48.22.jpeg","NISN ALUMNI 2020"));
+      </script></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='NISN ALUMNI 2020'>
+<a href='https://www.midarussalamjati.sch.id/2020/09/nisn-alumni-2020.html' title='NISN ALUMNI 2020'>NISN ALUMNI 2020</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2020/09/nisn-alumni-2020.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2020-09-01T18:31:00-07:00'>
+September 01, 2020
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+&#160; &#160; &#160;NISN DALAM FILE PDF DAPAT DI DOWNLOAD DISINI!👇👇👇 https://drive.google.com/drive/folders/1FHtGbo_gHq9O2yeF7rqAmdM84jwrppKU?usp=sharin...
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-3349829685867374912'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2020/08/proses-penilaian-hasil-belajar-siswa.html'><script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Mk8pffIYHcpqfwqXAQD9tSjD1pIIdovc8ggoX_SOWX811IodOcFTDAnUkxciT1wDVQ38UeK-X8A1GluC6q-ASFY2jGTBEAJ1lwTKX23XBh9JdOlQ7ESwDtjsY7SrApcmTYsldwP57c0G/s72-c/WhatsApp+Image+2020-08-26+at+9.19.45+AM.jpeg","Proses penilaian hasil belajar siswa"));
+      </script></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='Proses penilaian hasil belajar siswa'>
+<a href='https://www.midarussalamjati.sch.id/2020/08/proses-penilaian-hasil-belajar-siswa.html' title='Proses penilaian hasil belajar siswa'>Proses penilaian hasil belajar siswa</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2020/08/proses-penilaian-hasil-belajar-siswa.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2020-08-25T19:23:00-07:00'>
+Agustus 25, 2020
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+Proses penilaian hasil belajar siswa dalam home learning. 
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-4795063316690797450'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2020/08/proses-pengecoran-gedung-baru-mi.html'><script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgewAdajdFMU05mBF5xUOUr5nR8IzQ-ERIXaLWzhdDuaw7YR9tq8HZpugr8abKp2FSlLTcGuQSpNL947ZEw3aUGNTzAxTEU1vqu1CWBg0LW1WVBsUzh73eM8yeeEaa9PlYe9_feQDpIjiTi/s72-c/WhatsApp+Image+2020-08-23+at+9.56.55+AM.jpeg","PROSES PENGECORAN GEDUNG BARU MI DARUSSALAM JATI 2 LANTAI"));
+      </script></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='PROSES PENGECORAN GEDUNG BARU MI DARUSSALAM JATI 2 LANTAI'>
+<a href='https://www.midarussalamjati.sch.id/2020/08/proses-pengecoran-gedung-baru-mi.html' title='PROSES PENGECORAN GEDUNG BARU MI DARUSSALAM JATI 2 LANTAI'>PROSES PENGECORAN GEDUNG BARU MI DARUSSALAM JATI 2 LANTAI</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2020/08/proses-pengecoran-gedung-baru-mi.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2020-08-25T19:07:00-07:00'>
+Agustus 25, 2020
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+&#160;Mohon Do&#39;a Restu dan partisipasinya dalam proses pembangunan gedung baru MI Darussalam Jati.
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<article class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div class='post-body entry-content' id='post-body-458016309161861702'>
+<div class='post-thumbnail'>
+<a href='https://www.midarussalamjati.sch.id/2020/07/sambutan-kepala-madrasah-ibtidaiyah-jati.html'><script type='text/javascript'>
+document.write(bp_thumbnail_resize("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-26P5k5xLsu-8slTuFGye06N6cEsGK4JZ60YsaGAGSVJHqC90IO_OTc42BrA40tqg_koB7WA3CX5v-kDxEX-bo7MbRuX5N1apf70GQNAtj09mYe9eYFz6Xq6Ii21i4mwThmqdsPlsEcU/s72-c/GERBANG+MI+DARUSSALAM+JATI.jpeg","Sambutan Kepala Madrasah Ibtidaiyah Jati"));
+      </script></a>
+</div>
+<h2 class='post-title entry-title' itemprop='name headline' title='Sambutan Kepala Madrasah Ibtidaiyah Jati'>
+<a href='https://www.midarussalamjati.sch.id/2020/07/sambutan-kepala-madrasah-ibtidaiyah-jati.html' title='Sambutan Kepala Madrasah Ibtidaiyah Jati'>Sambutan Kepala Madrasah Ibtidaiyah Jati</a>
+</h2>
+<div class='post-info'>
+<div class='post-info-icon tanggal'>
+<span class='post-timestamp'>
+<meta content='https://www.midarussalamjati.sch.id/2020/07/sambutan-kepala-madrasah-ibtidaiyah-jati.html' itemprop='url'/>
+<span class='updated' itemprop='datePublished' title='2020-07-12T23:05:00-07:00'>
+Juli 12, 2020
+</span>
+</span>
+</div>
+<div class='post-info-icon komentar'>
+</div>
+</div>
+<div itemprop='description articleBody'>
+Assalam mu&#8217;alaikum wr. wb. Puji syukur rahmad dan karunia Allah SWT sehingga saya mampu menuliskan kata sambutan Kepala madrasah dalam rangk...
+</div>
+<div style='clear: both;'></div>
+</div>
+</article>
+</div>
+
+        </div></div>
+      
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='clear'></div>
+<div class='pagenavi'>
+<script type='text/javascript'>
+var pageNaviConf = {
+perPage: 5,
+numPages: 5,
+firstText: "First",
+lastText: "Last",
+nextText: "Next",
+prevText: "Prev"
+}
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+function pageNavi(o){var m=location.href,l=m.indexOf("/search/label/")!=-1,a=l?m.substr(m.indexOf("/search/label/")+14,m.length):"";a=a.indexOf("?")!=-1?a.substr(0,a.indexOf("?")):a;var g=l?"/search/label/"+a+"?updated-max=":"/search?updated-max=",k=o.feed.entry.length,e=Math.ceil(k/pageNaviConf.perPage);if(e<=1){return}var n=1,h=[""];l?h.push("/search/label/"+a+"?max-results="+pageNaviConf.perPage):h.push("/?max-results="+pageNaviConf.perPage);for(var d=2;d<=e;d++){var c=(d-1)*pageNaviConf.perPage-1,b=o.feed.entry[c].published.$t,f=b.substring(0,19)+b.substring(23,29);f=encodeURIComponent(f);if(m.indexOf(f)!=-1){n=d}h.push(g+f+"&max-results="+pageNaviConf.perPage)}pageNavi.show(h,n,e)}pageNavi.show=function(f,e,a){var d=Math.floor((pageNaviConf.numPages-1)/2),g=pageNaviConf.numPages-1-d,c=e-d;if(c<=0){c=1}endPage=e+g;if((endPage-c)<pageNaviConf.numPages){endPage=c+pageNaviConf.numPages-1}if(endPage>a){endPage=a;c=a-pageNaviConf.numPages+1}if(c<=0){c=1}var b='<span class="pages">Pages '+e+' of '+a+"</span> ";if(c>1){b+='<a href="'+f[1]+'">'+pageNaviConf.firstText+"</a>"}if(e>1){b+='<a href="'+f[e-1]+'">'+pageNaviConf.prevText+"</a>"}for(i=c;i<=endPage;++i){if(i==e){b+='<span class="current">'+i+"</span>"}else{b+='<a href="'+f[i]+'">'+i+"</a>"}}if(e<a){b+='<a href="'+f[e+1]+'">'+pageNaviConf.nextText+"</a>"}if(endPage<a){b+='<a href="'+f[a]+'">'+pageNaviConf.lastText+"</a>"}document.write(b)};(function(){var b=location.href;if(b.indexOf("?q=")!=-1||b.indexOf(".html")!=-1){return}var d=b.indexOf("/search/label/")+14;if(d!=13){var c=b.indexOf("?"),a=(c==-1)?b.substring(d):b.substring(d,c);document.write('<script type="text/javascript" src="/feeds/posts/summary/-/'+a+'?alt=json-in-script&callback=pageNavi&max-results=99999"><\/script>')}else{document.write('<script type="text/javascript" src="/feeds/posts/summary?alt=json-in-script&callback=pageNavi&max-results=99999"><\/script>')}})();
+		//]]>
+</script>
+</div>
+</div></div>
+<div class='post-left no-items section' id='post-left'></div>
+<div class='post-right no-items section' id='post-right'></div>
+<div class='clear'></div>
+</div>
+<!-- main wrapper end -->
+<!-- sidebar wrapper start -->
+<aside id='sidebar-wrapper' itemscope='itemscope' itemtype='http://schema.org/WPSideBar'>
+<div class='sidebar section' id='sidebar'><div class='widget Label' data-version='1' id='Label2'>
+<h2>Kategori</h2>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/NISN%20Alumni%202020'>NISN Alumni 2020</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/NISN%20Alumni%202021'>NISN Alumni 2021</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/Sambutan'>Sambutan</a>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/Scan%20Ijazah%20alumni%202020'>Scan Ijazah alumni 2020</a>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<h2 class='title'>Media Sosial</h2>
+<div class='widget-content'>
+<div style="text-align: center;">
+<a href="#" target="_blank" title="Like/Follow"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWKLxbDzLnyj5o9EWQasr8bdeg1gKy0624E3NdGcGwbyL_HfIgW3Kev7W8SAHs8IKLbJ62QG17OxBSf8b-sBw_WDGI-Lf9twujDRAZW7zihPa-fFwBd-wRRv-p7wdF2Au6marVm2z_0sQ/s1600/facebook.png" style="border: medium none; position: relative;" / /></a>
+
+
+<a target="_blank" title="Follow Me"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEickpSC69nlhe7h38Pbntj3sTEgYjlaft69G42L0W9pN_6DBv2517Ayn6E7M8CP5Uprl8UQPoHL1DUurvNAon19DfWfRoZ93b1FB7oY6LyagRFLe9UPt7NrhVBr0b8BtOngIE2FXnlQLWg/s1600/instagram.png" style="border: medium none; position: relative;" / /></a>
+
+<a target="_blank" title="Follow Me"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtqDbw5WSui73qvIiuNqGSTBwp2K3dVnIug9wYFgkDITs0ToBHfd25WjxIh2sxkZg3JqNrcDPEcEOGvK4YJ92BH-ZrJ2suWjOr0sgMKNWn4POrE8ZAnSAExSCM9vA29v7B7Qt664GJ-gQ/s1600/twitter.png" style="border: medium none; position: relative;" / /></a>
+
+<a target="_blank" title="Subscribe"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtzocmhwPUBhJNaizJ56-zv9clLeDrxoxERz2BpaB690W64X-306xxZyN-31JYjKkMpY8KuI-i6F11VRiaHisQgBkPQnVQOXqdw_shrt8Zc-F7eaWmXTb7ybI5c8NBEQU39jpnDQeA-ng/s1600/youtube.png" style="border: medium none; position: relative;" / /></a></div>
+</div>
+<div class='clear'></div>
+</div><div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
+<h2>Informasi</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<a href='https://www.midarussalamjati.sch.id/2021/09/scan-ijazah-alumni-2021.html'>SCAN IJAZAH ALUMNI 2021</a>
+</li>
+<li>
+<a href='https://www.midarussalamjati.sch.id/2021/09/latihan-soal-akmasesmen-komentasi.html'>LATIHAN SOAL AKM(ASESMEN KOMENTASI MADRASAH)</a>
+</li>
+<li>
+<a href='https://www.midarussalamjati.sch.id/2020/07/sambutan-kepala-madrasah-ibtidaiyah-jati.html'>Sambutan Kepala Madrasah Ibtidaiyah Jati</a>
+</li>
+<li>
+<a href='https://www.midarussalamjati.sch.id/2020/09/nisn-alumni-2020.html'>NISN ALUMNI 2020</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+<!-- sidebar wrapper end -->
+<div class='clear'></div>
+</div>
+<!-- content wrapper end -->
+<!-- footer wrapper start -->
+<div id='footer-wrapper'>
+<div class='left no-items section' id='left'></div>
+<div class='center section' id='center'><div class='widget Label' data-version='1' id='Label1'>
+<h2>Topik</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/NISN%20Alumni%202020'>NISN Alumni 2020</a>
+</li>
+<li>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/NISN%20Alumni%202021'>NISN Alumni 2021</a>
+</li>
+<li>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/Sambutan'>Sambutan</a>
+</li>
+<li>
+<a dir='ltr' href='https://www.midarussalamjati.sch.id/search/label/Scan%20Ijazah%20alumni%202020'>Scan Ijazah alumni 2020</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+<div class='right section' id='right'><div class='widget HTML' data-version='1' id='HTML5'>
+<h2 class='title'>Postingan Terbaru</h2>
+<div class='widget-content'>
+<script type="text/javascript"> 
+  function showlatestpostswiththumbs(t){document.write('<ul class="recent-posts-container">');for(var e=0;e<posts_no;e++){var r,n=t.feed.entry[e],i=n.title.$t;if(e==t.feed.entry.length)break;for(var o=0;o<n.link.length;o++){if("replies"==n.link[o].rel&&"text/html"==n.link[o].type)var l=n.link[o].title,m=n.link[o].href;if("alternate"==n.link[o].rel){r=n.link[o].href;break}}var u;try{u=n.media$thumbnail.url}catch(h){s=n.content.$t,a=s.indexOf("<img"),b=s.indexOf('src="',a),c=s.indexOf('"',b+5),d=s.substr(b+5,c-b-5),u=-1!=a&&-1!=b&&-1!=c&&""!=d?d:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmESlZa_Uwq77QC7CBckYc0dlWc6yf_eVb59w4EdZG_sfX99clX7SHsCQ_Qh_DZUF0RGNk_TB5LF-xzidnSxZRb9CBfuMT79BjwO1vradjL9QaNJklAMzK8kEFW0rceEtohyphenhyphenafps7130K7/s1600/no-thumb.png"}var p=n.published.$t,f=p.substring(0,4),g=p.substring(5,7),v=p.substring(8,10),w=new Array;if(w[1]="Jan",w[2]="Feb",w[3]="Mar",w[4]="Apr",w[5]="May",w[6]="Jun",w[7]="Jul",w[8]="Aug",w[9]="Sep",w[10]="Oct",w[11]="Nov",w[12]="Dec",document.write('<li class="recent-posts-list">'),1==showpoststhumbs&&document.write('<a href="'+r+'"><img class="recent-post-thumb" src="'+u+'"/></a>'),document.write('<div class="recent-post-title"><a href="'+r+'" target ="_top">'+i+"</a></div>"),"content"in n)var A=n.content.$t;else if("summary"in n)var A=n.summary.$t;else var A="";var k=/<\S[^>]*>/g;if(A=A.replace(k,""),1==post_summary)if(A.length<summary_chars)document.write(A);else{A=A.substring(0,summary_chars);var y=A.lastIndexOf(" ");A=A.substring(0,y),document.write(A+"...")}var _="",$=0;document.write('<br><div class="recent-posts-details">'),1==posts_date&&(_=_+w[parseInt(g,10)]+" "+v+" "+f,$=1),1==readmorelink&&(1==$&&(_+=" | "),_=_+'<a href="'+r+'" class="url" target ="_top">Read more</a>',$=1),1==showcommentslink&&(1==$&&(_+=" <br> "),"1 Comments"==l&&(l="1 Comment"),"0 Comments"==l&&(l="No Comments"),l='<a href="'+m+'" target ="_top">'+l+"</a>",_+=l,$=1),document.write(_),document.write("</div>"),document.write("</li>")}document.write("</ul>")} 
+  </script> 
+  <script type="text/javascript"> 
+  var posts_no = 5; 
+  var showpoststhumbs = true; 
+  var readmorelink = false; 
+  var showcommentslink = false; 
+  var posts_date = false; 
+  var post_summary = false; 
+  var summary_chars = 40;</script> 
+  <script src="/feeds/posts/default?orderby=published&alt=json-in-script&callback=showlatestpostswiththumbs"></script> 
+  <link href="//fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css"> 
+  <style type="text/css"> 
+  img.recent-post-thumb{padding:2px;width:65px;height:65px;float:left;margin:0px 10px 10px;border: 1px solid #69B7E2;} 
+  .recent-posts-container {font-family:'Roboto',sans-serif;font-size:12px;} 
+  ul.recent-posts-container li{list-style-type: none; margin-bottom: 10px;font-size:12px;float:left;width:100%} 
+  ul.recent-posts-container {counter-reset: countposts;list-style-type:none;padding:0;} 
+  ul.recent-posts-container li:before { counter-increment: countposts;z-index: 1;position:absolute; left: 0px; font-size: 13px;font-weight: bold;color: #fff;background: #69B7E2;line-height:25px;height:25px;width:25px;text-align:center;-webkit-border-radius: 50%;-moz-border-radius: 50%;border-radius: 50%;} 
+  .recent-posts-container a{text-decoration:none;} 
+  .recent-post-title {margin-bottom:5px;} 
+  .recent-post-title a {font-size:15px;  color: #2aace3;} 
+  .recent-posts-details {margin: 5px 0px 0px 92px;font-size:11px;} 
+  .recent-posts-details a{color: #777;} 
+  </style>
+</div>
+<div class='clear'></div>
+</div>
+</div>
+</div>
+<!-- footer wrapper end -->
+<!-- credit start start -->
+<footer id='credit' itemscope='itemscope' itemtype='http://schema.org/WPFooter'>
+Copyright &#169;  <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script> :  <a href='https://www.midarussalamjati.sch.id/' itemprop='url' title='MI DARUSSALAM JATI'><span itemprop='copyrightHolder'>MI DARUSSALAM JATI</span></a> - All Rights Reserved<br/>
+  Proudly powered by Google's Server. Developed by <a href='https://et.co.id'>Website Sekolah</a>.
+  </footer>
+<!-- credit end -->
+<div class='clear'></div>
+</div>
+<!-- outer wrapper end -->
+<a href='#' id='top'><img alt='Back To Top' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9pzLSPUlbDutmhFnEdU-SoH3tCEBNpBT1ExTmY1Kw2RNzKn2pcOijvW2FCYGn2wy98hbORkFRQox-9jWnn_waD62rHSyO9_nQDx0BCps9alPmNHvOqoleYKFINj8iLfgmHtV7WwZ4ROGn/s1600/btp.png'/></a>
+<script type='text/javascript'>
+//<![CDATA[
+//Blocking SPAM
+function blockNotAllowed(parentID,children){if(!document.getElementById(parentID))return;var parent=document.getElementById(parentID),content=parent.getElementsByTagName(children);for(var i=0;i<content.length;i++){if(content[i].innerHTML.indexOf('</a>')!==-1){content[i].innerHTML="Mohon maaf komentar anda kami hapus, karena dianggap sebagai tindakan <b>SPAM</b>";content[i].className="spammer-detected"}if(/(^| |>)(Kata1|Kata2|Kata3)(nya|"|'|&quot;|&#39;|\,|\.|\!|\?|\:|\;|\)|\/|<| |$)/i.test(content[i].innerHTML)){content[i].innerHTML='Mohon maaf komentar anda kami hapus, karena telah melanggar peraturan blog ini'}}}
+blockNotAllowed('comment_block', 'p');
+//Asyncron Facebook, Google Plus and Twitter
+(function(){var fb1=document.createElement('script');fb1.type='text/javascript';fb1.async=true;fb1.src='http://connect.facebook.net/en_US/all.js#xfbml=1','facebook-jssdk';var fb2=document.getElementsByTagName('script')[0];fb2.parentNode.insertBefore(fb1,fb2)})();(function(){var tw1=document.createElement('script');tw1.type='text/javascript';tw1.async=true;tw1.src='http://platform.twitter.com/widgets.js';var tw2=document.getElementsByTagName('script')[0];tw2.parentNode.insertBefore(tw1,tw2)})();(function(){var gp1=document.createElement('script');gp1.type='text/javascript';gp1.async=true;gp1.src='https://apis.google.com/js/plusone.js';var gp2=document.getElementsByTagName('script')[0];gp2.parentNode.insertBefore(gp1,gp2)})();
+var ww=document.body.clientWidth;$(document).ready(function(){$(".nav li a").each(function(){if($(this).next().length>0){$(this).addClass("parent")}});$(".toggleMenu").click(function(e){e.preventDefault();$(this).toggleClass("active");$(".nav").toggle()});adjustMenu()});$(window).bind("resize orientationchange",function(){ww=document.body.clientWidth;adjustMenu()});var adjustMenu=function(){if(ww<960){$(".toggleMenu").css("display","inline-block");if(!$(".toggleMenu").hasClass("active")){$(".nav").hide()}else{$(".nav").show()}$(".nav li").unbind("mouseenter mouseleave");$(".nav li a.parent").unbind("click").bind("click",function(e){e.preventDefault();$(this).parent("li").toggleClass("hover")})}else if(ww>=960){$(".toggleMenu").css("display","none");$(".nav").show();$(".nav li").removeClass("hover");$(".nav li a").unbind("click");$(".nav li").unbind("mouseenter mouseleave").bind("mouseenter mouseleave",function(){$(this).toggleClass("hover")})}}
+/*! Related Post Widget for Blogger by=> http://gplus.to/tovic */
+var randomRelatedIndex,showRelatedPost;(function(n,m,k){var d={widgetTitle:"<h4>Artikel Terkait:</h4>",widgetStyle:1,homePage:"http://www.dte.web.id",numPosts:7,summaryLength:370,titleLength:"auto",thumbnailSize:72,noImage:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC",containerId:"related-post",newTabLink:false,callBack:function(){}};for(var f in relatedPostConfig){d[f]=(relatedPostConfig[f]=="undefined")?d[f]:relatedPostConfig[f]}var j=function(a){var b=m.createElement("script");b.type="text/javascript";b.src=a;k.appendChild(b)},o=function(b,a){return Math.floor(Math.random()*(a-b+1))+b},l=function(a){var p=a.length,c,b;if(p===0){return false}while(--p){c=Math.floor(Math.random()*(p+1));b=a[p];a[p]=a[c];a[c]=b}return a},e=(typeof labelArray=="object"&&labelArray.length>0)?"/-/"+l(labelArray)[0]:"",h=function(b){var c=b.feed.openSearch$totalResults.$t-d.numPosts,a=o(1,(c>0?c:1));j(d.homePage.replace(/\/$/,"")+"/feeds/posts/summary"+e+"?alt=json-in-script&orderby=updated&start-index="+a+"&max-results="+d.numPosts+"&callback=showRelatedPost")},g=function(z){var s=document.getElementById(d.containerId),x=l(z.feed.entry),A=d.widgetStyle,c=d.widgetTitle+'<ul class="rel-style-'+A+'">',b=d.newTabLink?' target="_blank"':"",y='<span style="display:block;clear:both;"></span>',v,t,w,r,u;if(!s){return}for(var q=0;q<d.numPosts;q++){if(q==x.length){break}t=x[q].title.$t;w=(d.titleLength!=="auto"&&d.titleLength<t.length)?t.substring(0,d.titleLength)+"&hellip;":t;r=("media$thumbnail"in x[q]&&d.thumbnailSize!==false)?x[q].media$thumbnail.url.replace(/\/s[0-9]+(\-c)?/,"/s"+d.thumbnailSize+"-c"):d.noImage;u=("summary"in x[q]&&d.summaryLength>0)?x[q].summary.$t.replace(/<br ?\/?>/g," ").replace(/<.*?>/g,"").replace(/[<>]/g,"").substring(0,d.summaryLength)+"&hellip;":"";for(var p=0,a=x[q].link.length;p<a;p++){v=(x[q].link[p].rel=="alternate")?x[q].link[p].href:"#"}if(A==2){c+='<li><a title="'+t+'" href="'+v+'"><img alt="'+t+'" class="rel-thumb" src="'+r+'" width="'+d.thumbnailSize+'" height="'+d.thumbnailSize+'"/></a><a class="related-post-item-title" title="'+t+'" href="'+v+'"'+b+">"+w+'</a><span class="related-post-item-summary"><span class="related-post-item-summary-text">'+u+'</span> <a href="'+v+'" class="related-post-item-more"'+b+"></a></span>"+y+"</li>"}}s.innerHTML=c+="</ul>"+y;d.callBack()};randomRelatedIndex=h;showRelatedPost=g;j(d.homePage.replace(/\/$/,"")+"/feeds/posts/summary"+e+"?alt=json-in-script&orderby=updated&max-results=0&callback=randomRelatedIndex")})(window,document,document.getElementsByTagName("head")[0]);
+//]]>
+</script>
+<script type='text/javascript'>
+$(document).ready(function(){
+var olderLink = $("a.blog-pager-older-link").attr("href");
+$("a.blog-pager-older-link").load(olderLink+" .post-title:first", function() {
+var olderLinkTitle = $("a.blog-pager-older-link").text();
+$("a.blog-pager-older-link").text(olderLinkTitle);//rgt
+});
+var newerLink = $("a.blog-pager-newer-link").attr("href");
+$("a.blog-pager-newer-link").load(newerLink+" .post-title:first", function() {
+var newerLinkTitle = $("a.blog-pager-newer-link:first").text();
+$("a.blog-pager-newer-link").text(newerLinkTitle);
+});
+});
+</script>
+
+<!--
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/344097953-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'APlU3lwwISWLjx-mq7wzhPWipzuD:1775801874993';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6458317656262290650','//www.midarussalamjati.sch.id/','6458317656262290650');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6458317656262290650', 'title': 'MI DARUSSALAM JATI', 'url': 'https://www.midarussalamjati.sch.id/', 'canonicalUrl': 'https://www.midarussalamjati.sch.id/', 'homepageUrl': 'https://www.midarussalamjati.sch.id/', 'searchUrl': 'https://www.midarussalamjati.sch.id/search', 'canonicalHomepageUrl': 'https://www.midarussalamjati.sch.id/', 'blogspotFaviconUrl': 'https://www.midarussalamjati.sch.id/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'id', 'localeUnderscoreDelimited': 'id', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22MI DARUSSALAM JATI - Atom\x22 href\x3d\x22https://www.midarussalamjati.sch.id/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22MI DARUSSALAM JATI - RSS\x22 href\x3d\x22https://www.midarussalamjati.sch.id/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22MI DARUSSALAM JATI - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6458317656262290650/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/5ddb33369fcd32d1', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Dapatkan link', 'key': 'link', 'shareMessage': 'Dapatkan link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Bagikan ke Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Bagikan ke X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Bagikan ke Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27id\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Baca selengkapnya', 'pageType': 'index', 'pageName': '', 'pageTitle': 'MI DARUSSALAM JATI'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Tautan disalin ke papan klip!', 'ok': 'Oke', 'postLink': 'Tautan Pos'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Khusus', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'MI DARUSSALAM JATI', 'description': '', 'url': 'https://www.midarussalamjati.sch.id/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header1', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'ads-banner', document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'tengah-kiri', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'tengah-kanan', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2626028960-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/828616780-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'sidebar', document.getElementById('Label2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'center', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'right', document.getElementById('HTML5'), {}, 'displayModeFull'));
+</script>
+</body>--></body> 
+</HTML>
